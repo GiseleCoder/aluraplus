@@ -1,2 +1,2 @@
 # aluraplus
-Curso HTML e CSS Alura. For
+Curso HTML e CSS Alura. Frontend de uma página estática.
